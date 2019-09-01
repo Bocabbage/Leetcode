@@ -1,6 +1,6 @@
 /*
     Title:          3.LongestSubstringWithoutRepeatingCharacters.c
-    Update date:    2019/09/1
+    Update date:    2019/09/01
     Author:         Zhuofan Zhang
     Latest Method:  Use Bool-Bucket
 */
