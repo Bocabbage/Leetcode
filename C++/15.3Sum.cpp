@@ -45,6 +45,7 @@ public:
 /*
                 Method1: Use Binary-Search to search the last value
                 Worst situation(in this section): O(nlgn)
+                Submission: (10.79%, 100%)
 */
 //                 int last_q = *last + 1; 
 //                 while(q > p)
@@ -68,6 +69,7 @@ public:
 /*
                 Method2: reduced the problem into '2Sum', use 2-pointers method.
                 Worst situation(in this section): O(n)
+                Submission: (83.39%, 100%)
 */               
                 q = p + 1;
                 auto r = last;
