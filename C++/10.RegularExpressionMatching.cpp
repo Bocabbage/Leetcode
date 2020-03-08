@@ -1,8 +1,8 @@
 /*
     Title:          10.RegularExpressionMatching.cpp
-    Update date:    2019/10/30
+    Update date:    2020/3/8
     Author:         Zhuofan Zhang
-    Method:         Dynamic Programming
+    Method:         Dynamic Programming(93.14%, 90%)
 */
 
 class Solution{
@@ -25,6 +25,7 @@ public:
     
     bool dp(int ps, int pp, string &text, string &pattern)
     {
+        // If has been visited, return the answer directly
         if(memo[ps][pp] != 0)
             return memo[ps][pp] == 1;
         
@@ -33,17 +34,19 @@ public:
             ans = (ps == text.length());
         else
         {
+            // The now-processing char is matched or not
             bool first_match = ( 
                                  ps < text.length() && 
                                 (pattern[pp] == text[ps] ||
                                  pattern[pp] == '.')
                                );
             
+            // If the next pattern char is '*'
             if(pp+1 < pattern.length() && pattern[pp+1] == '*')
                 ans = (dp(ps,pp+2, text, pattern) || 
-                       (first_match && dp(ps+1,pp,text,pattern)));
+                       (first_match && dp(ps+1, pp, text, pattern)));
             else
-                ans = (first_match && dp(ps+1,pp+1,text,pattern));
+                ans = (first_match && dp(ps+1, pp+1, text, pattern));
         }
         
         memo[ps][pp] = ans? 1: 2;
