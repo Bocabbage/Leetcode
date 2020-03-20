@@ -9,6 +9,9 @@ public:
     int maxSubArray(vector<int>& nums) 
     {
         // dp: (70.88%, 100.00%)
+        // subproblem: maxSubArray(vector<int>&nums, int i)
+        // which means the maxSubArray for nums[0:i] which must has
+        // nums[i] as the end element.
         size_t len = nums.size();
         int* dp = new int[len];
         dp[0] = nums[0];
