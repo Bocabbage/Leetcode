@@ -1,5 +1,5 @@
 /*
-    Title:          1.TwoSum.c
+    Title:          2.AddTowNumbers.c
     Update date:    2019/08/25
     Author:         Zhuofan Zhang
 */
@@ -13,6 +13,9 @@
  * };
  */
 
+/*
+    Better C++ results in C++/2.AddTwoNumbers.cpp
+*/
 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2)
 {
