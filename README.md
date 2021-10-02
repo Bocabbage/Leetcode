@@ -26,3 +26,11 @@
 
 - [7] Reverse Integer
 - [9] Palindrome Number
+
+
+
+### Stack
+
+- [20] Valid Parentheses
+- [32] Longest Valid Parentheses **【HARD】**
+
