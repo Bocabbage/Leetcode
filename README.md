@@ -15,6 +15,12 @@
 
 
 
+### Array
+
+- [1470] Shuffle the Array 
+
+
+
 ### String
 
 - [3] Longest Substring Without Repeating Characters
