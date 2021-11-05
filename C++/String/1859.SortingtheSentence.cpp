@@ -1,7 +1,6 @@
-
 /*
     Title:          1859. SortingtheSentence.cpp
-    Update date:    2020/10/14
+    Update date:    2021/10/14
     Author:         Zhuofan Zhang
 */
 class Solution {

@@ -1,6 +1,6 @@
 /*
     Title:          1470.ShuffleTheArray.cpp
-    Update date:    2020/10/13
+    Update date:    2021/10/13
     Author:         Zhuofan Zhang
     Annotation:     About how to carry the 2 value together and separate them when needed.
 */
