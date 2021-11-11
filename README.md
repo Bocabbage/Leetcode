@@ -17,7 +17,11 @@
 
 ### Array
 
+- [1282] Group the People Given the Group Size They Belong To 
 - [1470] Shuffle the Array 
+- [1588] Sum of All Odd Length Subarrays 
+- [1605] Find Valid Matrix Given Row and Column Sums 
+- [1913] Maximum Product Difference Between Two Pairs
 
 
 
@@ -25,6 +29,7 @@
 
 - [3] Longest Substring Without Repeating Characters
 - [5] Longest Palindromic Substring
+- [763] Partition Labels 
 
 
 
@@ -32,6 +37,7 @@
 
 - [7] Reverse Integer
 - [9] Palindrome Number
+- [1979] Find Greatest Common Divisor of Array 
 
 
 
