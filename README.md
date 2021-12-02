@@ -12,6 +12,11 @@
 
 - [2] Add Two Numbers
 - [25] Reverse Nodes in k-Group**【HARD】**
+- [141] Linked List Cycle
+- [142] Linked List Cycle II 
+- [160] Intersection of Two Linked Lists 
+- [206] Reverse Linked List
+- [234] Palindrome Linked List 
 
 
 
