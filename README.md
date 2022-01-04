@@ -1,5 +1,7 @@
 # Leetcode
 
+## Algorithms
+
 ### Sum Problems
 
 - [1] Two Sum
@@ -7,6 +9,16 @@
 - [16] 3Sum Closest
 
 
+
+### Search
+
+- [35] Search Insert Position 【Binary-Search】
+- [69] Sqrt(x) 【Binary-Search】
+- [349] Intersection of Two Arrays 
+
+
+
+## Data Structures
 
 ### Linked List
 
@@ -54,6 +66,10 @@
 
 - [20] Valid Parentheses
 - [32] Longest Valid Parentheses **【HARD】**
+
+
+
+
 
 
 
