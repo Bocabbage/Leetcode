@@ -14,6 +14,7 @@
 
 - [35] Search Insert Position 【Binary-Search】
 - [69] Sqrt(x) 【Binary-Search】
+- [167] Two Sum II
 - [349] Intersection of Two Arrays 
 
 
@@ -24,8 +25,11 @@
 
 - [2] Add Two Numbers
 - [25] Reverse Nodes in k-Group**【HARD】**
+- [82] Remove Duplicates from Sorted List II 
 - [141] Linked List Cycle
 - [142] Linked List Cycle II 
+- [143] Reorder List 
+- [148] Sort List
 - [160] Intersection of Two Linked Lists 
 - [206] Reverse Linked List
 - [234] Palindrome Linked List 
@@ -69,7 +73,16 @@
 
 
 
+### Tree
 
+- [104] Maximum Depth of Binary Tree
+- [110] Balanced Binary Tree
+
+
+
+### Heap
+
+- [2099] Find Subsequence of Length K With the Largest Sum
 
 
 
