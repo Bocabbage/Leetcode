@@ -19,12 +19,18 @@
 
 
 
+### BackTracking
+
+- [51] N-Queens **【HARD】**
+
+
+
 ## Data Structures
 
 ### Linked List
 
 - [2] Add Two Numbers
-- [25] Reverse Nodes in k-Group**【HARD】**
+- [25] Reverse Nodes in k-Group **【HARD】**
 - [82] Remove Duplicates from Sorted List II 
 - [141] Linked List Cycle
 - [142] Linked List Cycle II 
