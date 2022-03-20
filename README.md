@@ -19,9 +19,19 @@
 
 
 
+### Intervals
+
+- [56] Merge Intervals 
+
+
+
 ### BackTracking
 
-- [51] N-Queens **【HARD】**
+**【 Find possible result set 】**
+
+- [39] Combination Sum
+- [40] Combination Sum II
+- [51] N-Queens  **【HARD】**
 
 
 
@@ -30,7 +40,7 @@
 ### Linked List
 
 - [2] Add Two Numbers
-- [25] Reverse Nodes in k-Group **【HARD】**
+- [25] Reverse Nodes in k-Group  **【HARD】**
 - [82] Remove Duplicates from Sorted List II 
 - [141] Linked List Cycle
 - [142] Linked List Cycle II 
@@ -50,6 +60,12 @@
 - [1605] Find Valid Matrix Given Row and Column Sums
 - [1863] Sum of All Subset XOR Totals 
 - [1913] Maximum Product Difference Between Two Pairs
+
+
+
+### Matrix
+
+- [48] Rotate Image
 
 
 
@@ -75,7 +91,7 @@
 ### Stack
 
 - [20] Valid Parentheses
-- [32] Longest Valid Parentheses **【HARD】**
+- [32] Longest Valid Parentheses  **【HARD】**
 
 
 

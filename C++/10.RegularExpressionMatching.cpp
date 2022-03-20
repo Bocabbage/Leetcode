@@ -36,7 +36,7 @@ public:
         {
             // The now-processing char is matched or not
             bool first_match = ( 
-                                 ps < text.length() && 
+                                 ps < text.length() && // Attention!(corner case)
                                 (pattern[pp] == text[ps] ||
                                  pattern[pp] == '.')
                                );
