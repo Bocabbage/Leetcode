@@ -35,6 +35,13 @@
 
 
 
+### Dynamic-Programming
+
+- [300] Longest Increasing Subsequence
+- [494] Target Sum
+
+
+
 ## Data Structures
 
 ### Linked List
