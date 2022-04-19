@@ -88,7 +88,7 @@
 
 ### Number
 
-- [7] Reverse Integer
+- [7] Reverse Integer  **【corner-case !】**
 - [9] Palindrome Number
 - [1850] Minimum Adjacent Swaps to Reach the Kth Smallest Number 
 - [1979] Find Greatest Common Divisor of Array
@@ -111,7 +111,13 @@
 
 
 
-### Heap
+### Union-Find
+
+- [990] Satisfiability of Equality Equations
+
+
+
+### Heap (Priority-queue)
 
 - [2099] Find Subsequence of Length K With the Largest Sum
 
