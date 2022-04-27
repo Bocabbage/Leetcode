@@ -106,6 +106,8 @@
 
 - [104] Maximum Depth of Binary Tree
 - [110] Balanced Binary Tree
+- [114] Flatten Binary Tree to Linked List
+- [116] Populating Next Right Pointers in Each Node
 - [450] Delete Node in a BST  **【BST】**
 - [538] Convert BST to Greater Tree  **【BST】**
 - [543] Diameter of Binary Tree
