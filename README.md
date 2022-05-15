@@ -10,6 +10,14 @@
 
 
 
+### Permutation(s)
+
+- [31] Next permutation
+- [46] Permutations
+- [47] Permutations II
+
+
+
 ### Search
 
 - [35] Search Insert Position 【Binary-Search】
@@ -21,7 +29,7 @@
 
 ### Intervals
 
-- [56] Merge Intervals 
+- [56] Merge Intervals
 
 
 
@@ -61,6 +69,7 @@
 
 ### Array
 
+- [4] Median of Two Sorted Array **【HARD】**
 - [1282] Group the People Given the Group Size They Belong To 
 - [1470] Shuffle the Array 
 - [1588] Sum of All Odd Length Subarrays 
@@ -108,6 +117,7 @@
 - [110] Balanced Binary Tree
 - [114] Flatten Binary Tree to Linked List
 - [116] Populating Next Right Pointers in Each Node
+- [297] Serialize and Deserialize Binary Tree
 - [450] Delete Node in a BST  **【BST】**
 - [538] Convert BST to Greater Tree  **【BST】**
 - [543] Diameter of Binary Tree
