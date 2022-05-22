@@ -10,6 +10,12 @@
 
 
 
+### Double points
+
+- [42]  Trapping Rain Water
+
+
+
 ### Permutation(s)
 
 - [31] Next permutation
@@ -140,6 +146,12 @@
 ### Heap (Priority-queue)
 
 - [2099] Find Subsequence of Length K With the Largest Sum
+
+
+
+### Hash
+
+- [41] First Missing Positive **【HARD】**
 
 
 
