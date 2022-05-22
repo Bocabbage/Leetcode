@@ -1,6 +1,6 @@
 /*
     Title:          32.LongestValidParentheses.cpp
-    Update date:    2021/10/02
+    Update date:    2022/05/22
     Author:         Zhuofan Zhang
 */
 class Solution {
@@ -13,37 +13,22 @@ public:
         stk.push(-1);
         for(int i = 0; i < sLen; ++i)
         {
-            // switch(s[i])
-            // {
-            //     case '(': 
-            //         stk.push(i);break;
-            //     case ')':
-            //         stk.pop();
-            //         if(stk.empty())
-            //             stk.push(i);
-            //         else
-            //         {
-            //             int top = stk.top();
-            //             int tmpResult = i - top;
-            //             if(tmpResult > result)
-            //                 result = tmpResult;
-            //         }
-            // }
-                if(s[i] == '(') 
+            if(s[i] == '(') 
+                stk.push(i);
+            else
+            {
+                stk.pop();
+                if(stk.empty()) // No leftParenthese can be matched
+                    // As the left-bound 
                     stk.push(i);
                 else
                 {
-                    stk.pop();
-                    if(stk.empty())
-                        stk.push(i);
-                    else
-                    {
-                        int top = stk.top();
-                        int tmpResult = i - top;
-                        if(tmpResult > result)
-                            result = tmpResult;
-                    }
+                    int top = stk.top(); // top: the leftBound
+                    int tmpResult = i - top;
+                    if(tmpResult > result)
+                        result = tmpResult;
                 }
+            }
                     
         }
         
