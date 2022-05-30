@@ -1,8 +1,10 @@
 /*
     Title:          69.Sqrtx.cpp
-    Update date:    2022/01/05
+    Update date:    2022/05/30
     Author:         Zhuofan Zhang
 */
+
+/* Method1: Binary-Search */
 class Solution {
 public:
     int mySqrt(int x) {
@@ -23,5 +25,23 @@ public:
 
         return (hi*hi > x)? lo : hi;
 
+    }
+};
+
+/* Method2: Newton-Method */
+class Solution {
+public:
+    int mySqrt(int x) 
+    {
+        double xN = x;
+        double xN1 = x - 0.1;
+
+        while(xN - xN1 > 1e-4)
+        {
+            xN = xN1;
+            xN1 = xN - (pow(xN1, 2) - x) / (2*xN);
+        }
+
+        return xN1;
     }
 };

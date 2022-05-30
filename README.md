@@ -26,8 +26,9 @@
 
 ### Search
 
+- [34] Find First and Last Position of Element in Sorted Array【Binary-Search】
 - [35] Search Insert Position 【Binary-Search】
-- [69] Sqrt(x) 【Binary-Search】
+- [69] Sqrt(x) 【Binary-Search】/【Newton】
 - [167] Two Sum II
 - [349] Intersection of Two Arrays 
 
