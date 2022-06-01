@@ -26,9 +26,9 @@
 
 ### Search
 
-- [34] Find First and Last Position of Element in Sorted Array【Binary-Search】
-- [35] Search Insert Position 【Binary-Search】
-- [69] Sqrt(x) 【Binary-Search】/【Newton】
+- [34] Find First and Last Position of Element in Sorted Array **【Binary-Search】**
+- [35] Search Insert Position **【Binary-Search】**
+- [69] Sqrt(x) **【Binary-Search】/【Newton】**
 - [167] Two Sum II
 - [349] Intersection of Two Arrays 
 
@@ -124,6 +124,7 @@
 - [110] Balanced Binary Tree
 - [114] Flatten Binary Tree to Linked List
 - [116] Populating Next Right Pointers in Each Node
+- [208] Implement Trie **【Prefix Tree】**
 - [297] Serialize and Deserialize Binary Tree
 - [450] Delete Node in a BST  **【BST】**
 - [538] Convert BST to Greater Tree  **【BST】**
@@ -153,6 +154,14 @@
 ### Hash
 
 - [41] First Missing Positive **【HARD】**
+
+
+
+## Utils
+
+### Bit-Operation
+
+- [89] Gray Code
 
 
 
