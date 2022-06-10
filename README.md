@@ -12,7 +12,8 @@
 
 ### Double points
 
-- [42]  Trapping Rain Water
+- [42] Trapping Rain Water
+- [79] Sort Colors (Dutch National Flag Sorting Problem)
 
 
 
@@ -53,6 +54,7 @@
 ### Dynamic-Programming
 
 - [188] Best Time to Buy and Sell Stock IV **【HARD】**
+- [198] House Robber
 - [300] Longest Increasing Subsequence
 - [494] Target Sum
 
