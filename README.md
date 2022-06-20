@@ -53,6 +53,9 @@
 
 ### Dynamic-Programming
 
+- [53] Maximum Subarray
+- [152] Maximum Product Subarray
+- [139] Word Break **【DP + Trie + (std::hash for pair)】**
 - [188] Best Time to Buy and Sell Stock IV **【HARD】**
 - [198] House Robber
 - [300] Longest Increasing Subsequence
