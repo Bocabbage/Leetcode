@@ -58,6 +58,7 @@
 - [139] Word Break **【DP + Trie + (std::hash for pair)】**
 - [188] Best Time to Buy and Sell Stock IV **【HARD】**
 - [198] House Robber
+- [221] Maximal Square
 - [300] Longest Increasing Subsequence
 - [494] Target Sum
 
