@@ -64,6 +64,12 @@
 
 
 
+### Greedy
+
+- [334] Increasing Triplet Subsequence
+
+
+
 ## Data Structures
 
 ### Linked List
