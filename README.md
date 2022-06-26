@@ -61,6 +61,7 @@
 - [221] Maximal Square
 - [300] Longest Increasing Subsequence
 - [494] Target Sum
+- [6100] Count Number of Ways to Place Houses **【Fibonacci】**
 
 
 
