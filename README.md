@@ -129,6 +129,9 @@
 
 - [20] Valid Parentheses
 - [32] Longest Valid Parentheses  **【HARD】**
+- [84] Largest Rectangle in Histogram **【Monotonic Stack】【HARD】**
+- [85] Maximal Rectangle **【Monotonic Stack】【HARD】**
+- [394] Decode String
 
 
 
@@ -161,6 +164,7 @@
 
 ### Heap (Priority-queue)
 
+- [347] Top K Frequent Elements
 - [2099] Find Subsequence of Length K With the Largest Sum
 
 
@@ -171,11 +175,17 @@
 
 
 
-## Utils
+## Others
 
 ### Bit-Operation
 
 - [89] Gray Code
+
+
+
+### String
+
+- [394] Decode String  **【See Stack】**
 
 
 
