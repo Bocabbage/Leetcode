@@ -10,6 +10,13 @@
 
 
 
+### Prefix Method
+
+- [437] Path Sum III **【See Tree】**
+- [560] Subarray Sum Equals K
+
+
+
 ### Double points
 
 - [42] Trapping Rain Water
@@ -60,6 +67,8 @@
 - [198] House Robber
 - [221] Maximal Square
 - [300] Longest Increasing Subsequence
+- [337] House Robber III
+- [416] Partition Equal Subset Sum
 - [494] Target Sum
 - [6100] Count Number of Ways to Place Houses **【Fibonacci】**
 
@@ -143,6 +152,7 @@
 - [116] Populating Next Right Pointers in Each Node
 - [208] Implement Trie **【Prefix Tree】**
 - [297] Serialize and Deserialize Binary Tree
+- [437] Path Sum III **【Prefix-method】**
 - [450] Delete Node in a BST  **【BST】**
 - [538] Convert BST to Greater Tree  **【BST】**
 - [543] Diameter of Binary Tree
