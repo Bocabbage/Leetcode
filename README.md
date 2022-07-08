@@ -141,6 +141,7 @@
 - [84] Largest Rectangle in Histogram **【Monotonic Stack】【HARD】**
 - [85] Maximal Rectangle **【Monotonic Stack】【HARD】**
 - [394] Decode String
+- [739] Daily Temperatures **【Monotonic Stack】**
 
 
 
