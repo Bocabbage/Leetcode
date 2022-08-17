@@ -78,6 +78,7 @@
 ### Greedy
 
 - [334] Increasing Triplet Subsequence
+- [406] Queue Reconstruction by Height
 
 
 
