@@ -12,7 +12,7 @@
 
 ### Prefix Method
 
-- [437] Path Sum III **【See Tree】**
+- [437] Path Sum III **【 See [Tree] 】**
 - [560] Subarray Sum Equals K
 
 
@@ -66,6 +66,7 @@
 - [188] Best Time to Buy and Sell Stock IV **【HARD】**
 - [198] House Robber
 - [221] Maximal Square
+- [264] Ugly Number II
 - [300] Longest Increasing Subsequence
 - [312] Burst Balloons **【HARD】**
 - [337] House Robber III
@@ -177,6 +178,7 @@
 
 ### Heap (Priority-queue)
 
+- [264] Ugly Number II **【 See [Dynamic-Programming] 】**
 - [347] Top K Frequent Elements
 - [2099] Find Subsequence of Length K With the Largest Sum
 
@@ -198,7 +200,7 @@
 
 ### String
 
-- [394] Decode String  **【See Stack】**
+- [394] Decode String  **【 See [Stack] 】**
 
 
 
