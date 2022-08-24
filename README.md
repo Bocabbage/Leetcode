@@ -150,6 +150,7 @@
 
 ### Tree
 
+- [53] Maximum Subarray **【Segment Tree, See [Dynamic-Programming]】**
 - [104] Maximum Depth of Binary Tree
 - [110] Balanced Binary Tree
 - [114] Flatten Binary Tree to Linked List
