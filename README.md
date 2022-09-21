@@ -143,6 +143,7 @@
 
 - [20] Valid Parentheses
 - [32] Longest Valid Parentheses  **【HARD】**
+- [42] Trapping Rain Water **【Monotonic Stack】【HARD】**
 - [84] Largest Rectangle in Histogram **【Monotonic Stack】【HARD】**
 - [85] Maximal Rectangle **【Monotonic Stack】【HARD】**
 - [394] Decode String
