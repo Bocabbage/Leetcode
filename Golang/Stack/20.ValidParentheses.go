@@ -1,5 +1,5 @@
 /*
-	Title:          20.ValidParentheses.go
+    Title:          20.ValidParentheses.go
     Update date:    2020/09/21
     Author:         Zhuofan Zhang
 */
